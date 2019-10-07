@@ -1,0 +1,21 @@
+h1 {
+    display: flex;
+    justify-content: center;
+  }
+
+h2 {
+    display: flex;
+    justify-content: center;
+  }
+
+#quote {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-style: italic;
+    color: gold;
+}
+
+h3 {
+    text-transform: uppercase;
+}
