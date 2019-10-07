@@ -1,11 +1,3 @@
-body {
-    background-image: url("https://www.toperfect.com/pic/Oil%20Painting%20Styles%20on%20Canvas/Simple%20and%20Cheap/Free-hand%20paintings/3-mountain-cabin-Bob-Ross-freehand-landscapes.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    opacity: .5;
-  }
-
 h1 {
     display: flex;
     justify-content: center;
