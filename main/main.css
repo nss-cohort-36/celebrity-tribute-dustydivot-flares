@@ -71,6 +71,28 @@ h3 {
     color: white;
   }
   
+  footer {
+    background-color: #f3f3f3 ;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    /* top: 0; */
+    display: flex;
+    justify-content: space-between;
+    font-size: 17px;
+    color: #666;
+  }
+
+  /* #footer {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  #copyright {
+    display: flex;
+    justify-content: flex-end;
+  } */
   /* Logo  */
   .navbar {
     margin: 1% 0;
