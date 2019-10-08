@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 .name {
     display: flex;
     justify-content: center;
 }
-=======
+/* nav bar */
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #f3f3f3 ;
@@ -35,5 +35,23 @@
     color: white;
   }
   
+  /* Logo  */
+  .navbar {
+    margin: 1% 0;
+    float: left;
   
->>>>>>> master
+  }
+  .navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+  }
+  
+  .nav-container {
+    padding-top: 1%;
+  }
+
+  .img-responsive2{
+    height: 100%;
+    width: 25%;
+  
+    }
