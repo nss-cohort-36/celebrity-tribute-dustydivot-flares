@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 .name {
     display: flex;
     justify-content: center;
 }
-=======
+/* nav bar */
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #f3f3f3 ;
@@ -35,5 +35,29 @@
     color: white;
   }
   
+  /* Logo  */
+  .navbar {
+    margin: 10px 0;
+    float: left;
   
->>>>>>> master
+  }
+  .navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+  }
+  .brand-name {
+    font-family: 'Josefin Slab', serif;
+    font-size: 47px;
+    font-weight: bold;
+    color: #444;
+    text-decoration: none;
+  }
+  
+  .nav-container {
+    padding-top: 8px;
+  }
+  
+  .navbar-custom {
+    font-size: 20px;
+    background-color: #FFF;
+  }
