@@ -1,6 +1,42 @@
+#background {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background-image: url('https://www.toperfect.com/pic/Oil%20Painting%20Styles%20on%20Canvas/Simple%20and%20Cheap/Free-hand%20paintings/3-mountain-cabin-Bob-Ross-freehand-landscapes.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  opacity: 0.35;
+  z-index: -1;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+#quote {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-style: italic;
+  color: blue;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
 .name {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 /* nav bar */
 
