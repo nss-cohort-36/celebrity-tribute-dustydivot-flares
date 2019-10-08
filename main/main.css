@@ -1,9 +1,20 @@
-<<<<<<< HEAD
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1 0 auto;
+}
+
 .name {
     display: flex;
     justify-content: center;
 }
-=======
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #f3f3f3 ;
@@ -34,6 +45,29 @@
     background-color: skyblue;
     color: white;
   }
+
+
   
-  
->>>>>>> master
+  footer {
+    background-color: #f3f3f3 ;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-between;
+    font-size: 17px;
+    color: #666;
+  }
+
+  /* #footer {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  #copyright {
+    display: flex;
+    justify-content: flex-end;
+  } */
